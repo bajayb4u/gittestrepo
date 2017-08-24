@@ -4,4 +4,4 @@
 	
 Second format
 
-	<img alt="SigningandProfileSetup" src="images/SigningandProfileSetup.png" >
+	<img alt="SigningandProfileSetup" src="images/SigningandProfileSetup.png">
