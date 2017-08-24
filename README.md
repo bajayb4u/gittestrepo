@@ -5,3 +5,5 @@
 Second format
 
 	<img alt="SigningandProfileSetup" src="images/SigningandProfileSetup.png">
+
+	![](images/SigningandProfileSetup.png)
