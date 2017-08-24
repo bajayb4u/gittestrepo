@@ -7,4 +7,4 @@
 
 # Docker Official Images
 
-[![Build Status](https://github.com/bajayb4u/gittestrepo/blob/master/images/HeadersCustomSetup.png)](https://travis-ci.org/docker-library/official-images)
+![Build Status](https://github.com/bajayb4u/gittestrepo/blob/master/images/HeadersCustomSetup.png)
