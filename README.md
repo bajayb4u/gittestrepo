@@ -7,4 +7,4 @@
 
 # Docker Official Images
 
-![Build Status](https://github.com/bajayb4u/gittestrepo/blob/master/images/HeadersCustomSetup.png)
+![SigningandProfileSetup](https://github.com/bajayb4u/gittestrepo/blob/master/images/HeadersCustomSetup.png)
