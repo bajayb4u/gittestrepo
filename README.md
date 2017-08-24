@@ -6,4 +6,4 @@ Second format
 
 	<img alt="SigningandProfileSetup" src="images/SigningandProfileSetup.png">
 
-	![picture](images/SigningandProfileSetup.png)
+	![SigningandProfileSetup](images/SigningandProfileSetup.png)
