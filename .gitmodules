@@ -1,3 +1,4 @@
 [submodule "subrepository"]
 	path = subrepository
 	url = https://github.com/bajayb4u/subtest
+	branch = stable
